@@ -1,0 +1,25 @@
+{
+  "name": "pipe",
+  "version": "1.0.0",
+  "description": "Pipe unary functions easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint *.js tests/*.js",
+    "prettier": "prettier *.js **/*.js --write"
+  },
+  "keywords": [
+    "pipe",
+    "functions",
+    "functional",
+    "programming",
+    "composition"
+  ],
+  "author": "Alessio Biancalana",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "jest": "^24.9.0",
+    "prettier": "^1.18.2"
+  }
+}
