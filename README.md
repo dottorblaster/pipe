@@ -4,7 +4,7 @@ Easily pipe unary functions in JavaScript.
 Example:
 
 ```js
-const { pipe } = require('@dottorblaster/pipe');
+const { pipe } = require('@drblaster/pipe');
 
 const sumThree = arg => 3 + arg;
 const sumFour = arg => 4 + arg;

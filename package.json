@@ -1,6 +1,6 @@
 {
   "name": "@drblaster/pipe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pipe unary functions easily",
   "main": "index.js",
   "scripts": {
